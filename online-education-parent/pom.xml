@@ -5,7 +5,7 @@
     <groupId>venture.study</groupId>
     <artifactId>online-education-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
     <name>online-education-parent</name>
     <description>online-education-parent</description>
     <properties>
